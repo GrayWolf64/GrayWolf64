@@ -2,7 +2,8 @@
 
 I'm a CS student.
 
-### My Current Skills:
-* Proficiency in `Lua`
-* `C`
+### Status:
+* Programming Languages: Lua, C, Python
+* System: Linux Mint
+* Editor: VSCodium
 * ...
